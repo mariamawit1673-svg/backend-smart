@@ -1,0 +1,6 @@
+
+> smart-agriculture@1.0.0 backend
+> node backend/server.js
+
+Server running on http://localhost:5000
+MongoDB Connected
